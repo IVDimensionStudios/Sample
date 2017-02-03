@@ -4,6 +4,10 @@ We've made some big updates in this release, so it’s **important** that you sp
 
 You've created a new ASP.NET Core project. [Learn what's new](https://go.microsoft.com/fwlink/?LinkId=518016)
 
+# Project ScreenShots
+![Alt text](http://i1313.photobucket.com/albums/t557/cooldudeabhi/Screen%20Shot%202017-02-03%20at%208.42.07%20PM_zpsofg198sy.png "Index Action")
+![Alt text](http://i1313.photobucket.com/albums/t557/cooldudeabhi/Screen%20Shot%202017-02-03%20at%208.42.20%20PM_zpsxudkrvsx.png Action")
+![Alt text](http://i1313.photobucket.com/albums/t557/cooldudeabhi/Screen%20Shot%202017-02-03%20at%208.42.29%20PM_zpscexztcn1.png "SignUp Action")
 ## This application consists of:
 
 *   Sample pages using ASP.NET Core MVC
