@@ -13,14 +13,19 @@ namespace Sample.Controllers
             return View();
         }
 
-        public IActionResult About()
+        public IActionResult Learn()
+        {
+            return View(); 
+        }
+
+        public IActionResult Carrers()
         {
             ViewData["Message"] = "Your application description page.";
 
             return View();
         }
 
-        public IActionResult Contact()
+        public IActionResult Community()
         {
             ViewData["Message"] = "Your contact page.";
 

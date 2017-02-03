@@ -51,10 +51,18 @@ namespace Sample
 
             app.UseMvc(routes =>
             {
+                // New Routes 
+                routes.MapRoute(
+                    name: "Learn",
+                    template: "Home/Learn",
+                    defaults: new { controller = "Home", action = "Learn" });
+
                 routes.MapRoute(
                     name: "default",
                     template: "{controller=Home}/{action=Index}/{id?}");
             });
         }
+
+        
     }
 }
