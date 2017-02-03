@@ -6,7 +6,7 @@ You've created a new ASP.NET Core project. [Learn what's new](https://go.microso
 
 # Project ScreenShots
 ![Alt text](http://i1313.photobucket.com/albums/t557/cooldudeabhi/Screen%20Shot%202017-02-03%20at%208.42.07%20PM_zpsofg198sy.png "Index Action")
-![Alt text](http://i1313.photobucket.com/albums/t557/cooldudeabhi/Screen%20Shot%202017-02-03%20at%208.42.20%20PM_zpsxudkrvsx.png Action")
+![Alt text](http://i1313.photobucket.com/albums/t557/cooldudeabhi/Screen%20Shot%202017-02-03%20at%208.42.20%20PM_zpsxudkrvsx.png "Carrers Action")
 ![Alt text](http://i1313.photobucket.com/albums/t557/cooldudeabhi/Screen%20Shot%202017-02-03%20at%208.42.29%20PM_zpscexztcn1.png "SignUp Action")
 ## This application consists of:
 
